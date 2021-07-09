@@ -1,0 +1,2 @@
+# Smart-Greenhouse-Monitoring-System-Based-On-IOT
+Greenhouses have to be monitored manually whereas by making it a smart greenhouse that is by using IoT technique it can be monitored from faraway places also. Different sensors as per the requirement are used to monitor greenhouse and perform the actions according to the parameters sensed. The conditions are predefined by the maintainer so that the growth of the plant is not affected by environmental conditions.
